@@ -9,6 +9,6 @@ Chatbots are computer programs designed to simulate conversation with human user
 
 For full description: <a href="https://docs.google.com/presentation/d/12yFndI50LfljeGMH34XTAMDeyVlPKDQbuX_BhkgA92Q/edit#slide=id.g243b71256d0_0_56)">Presentation</a>
 
-For Video Presentation: <a href="https://youtu.be/1rG42QP9_PM">Click Here</a> and <a href= "https://youtu.be/MITJIx2Wg9Y">Here</a>
+For Video Presentation: Click <a href="https://youtu.be/1rG42QP9_PM">Here</a> and <a href= "https://youtu.be/MITJIx2Wg9Y">Here</a>
 
 
